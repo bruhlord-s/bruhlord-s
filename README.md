@@ -1,6 +1,10 @@
 <h1 align="center">Hello there, I'm Kostya ✌️</h1>
 <h3 align="center">web (not only) developer</h2>
 
+- 🌐 fullstack web development experience
+- 📱 mobile (android) development experience
+- 📊 studying data science and machine learning
+
 <h3>My backend skills</h4>
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
